@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226156120810",
+    "project_id": "login-register-exam-def6d",
+    "storage_bucket": "login-register-exam-def6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226156120810:android:248a5bf7b8eaefeda4a593",
+        "android_client_info": {
+          "package_name": "com.example.examquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226156120810-lo8fmmb39ej65p3duacr5vislrjcq2av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDleTjCUaEs3D-jsHci1eazYBA-aSL13Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226156120810-lo8fmmb39ej65p3duacr5vislrjcq2av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

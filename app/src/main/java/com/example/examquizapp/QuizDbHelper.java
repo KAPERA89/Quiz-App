@@ -16,7 +16,7 @@ import java.util.List;
 public class QuizDbHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "MyAwesomeQuiz.db";
-    private static final int DATABASE_VERSION = 4;
+    private static final int DATABASE_VERSION = 5;
 
     private SQLiteDatabase db;
 
@@ -78,7 +78,7 @@ public class QuizDbHelper extends SQLiteOpenHelper {
         addQuestion(q8);
         Question q9 = new Question("Hard:Quelle est la façon déclarative de rendre une liste dynamique de composants en fonction des valeurs d’un tableau.",
                 "Avec une boucle for/while", "Utiliser le composant <Each />", "Utiliser la méthode Array.map()", 1, Question.DIFFICULTY_HARD);
-        addQuestion(q8);
+        addQuestion(q9);
     }
 
     private void addQuestion(Question question) {
